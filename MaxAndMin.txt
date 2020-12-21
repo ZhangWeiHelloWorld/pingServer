@@ -1,0 +1,73 @@
+------------max speed----------------
+server:89.187.187.147	speed:560.64	delay:258.600	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:37.120.147.230	speed:420.57	delay:231.297	password:G!yBwPWH3Vao	port:800	method:chacha20-ietf-poly1305 
+server:37.120.147.230	speed:383.91	delay:221.598	password:G!yBwPWH3Vao	port:810	method:chacha20-ietf-poly1305 
+server:192.111.134.202	speed:366.30	delay:213.717	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:192.111.134.215	speed:265.52	delay:250.562	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:89.187.187.149	speed:264.86	delay:220.922	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:192.111.134.220	speed:261.44	delay:223.189	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:184.170.243.195	speed:240.14	delay:212.660	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 
+server:185.242.5.155	speed:213.71	delay:213.246	password:UhV73M9rmGqDfKh3Xtd4USHp	port:36811	method:aes-256-gcm 
+server:37.120.147.230	speed:211.68	delay:220.490	password:G!yBwPWH3Vao	port:804	method:chacha20-ietf-poly1305 
+server:107.181.166.55	speed:207.59	delay:176.036	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:45.89.173.205	speed:205.89	delay:220.429	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:209.58.128.50	speed:187.45	delay:276.421	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 
+server:45.148.8.171	speed:186.22	delay:176.063	password:123456	port:8838	method:chacha20-ietf-poly1305 
+server:213.59.119.7	speed:186.09	delay:231.909	password:FG5ddLsMPbV5CutE	port:9050	method:aes-256-cfb 
+server:184.170.243.197	speed:182.95	delay:233.261	password:n8w4StnbVD9dmXYn4Ajt87EA	port:31572	method:aes-256-gcm 
+server:207.246.109.208	speed:177.93	delay:223.182	password:ewdMxk8J38KP	port:9249	method:aes-256-gcm 
+server:199.58.187.69	speed:176.84	delay:224.719	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 
+server:38.95.110.73	speed:174.54	delay:215.611	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:89.187.187.147	speed:172.70	delay:226.222	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 
+------------min delay----------------
+server:123.162.188.188	speed: 7.10	delay:21.735	password:viwAdYMkCV3K	port:57666	method:aes-256-cfb 
+server:960579.us-1.baacloud1.com	speed: 3.93	delay:26.551	password:viwAdYMkCV3K	port:57666	method:aes-256-cfb 
+server:183.232.228.122	speed: 8.15	delay:47.772	password:0593	port:17231	method:chacha20-ietf 
+server:103.249.31.24	speed: 8.56	delay:53.085	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:node2.zhimianfei.com	speed: 2.13	delay:53.321	password:50oZ41pa1w97	port:17905	method:chacha20-ietf-poly1305 
+server:61.14.210.244	speed:13.47	delay:53.404	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:61.14.210.242	speed:10.19	delay:53.463	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:61.14.210.244	speed: 3.72	delay:53.825	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 
+server:5.188.3.186	speed: 9.84	delay:54.236	password:1234@Abcd	port:60330	method:aes-256-cfb 
+server:2.58.241.45	speed: 4.33	delay:59.760	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:2.58.241.45	speed: 8.06	delay:61.107	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+server:84.17.34.24	speed:39.59	delay:61.292	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:45.87.213.211	speed:33.76	delay:61.305	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:2.58.241.3	speed:19.79	delay:61.852	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+server:2.58.241.27	speed:23.84	delay:61.957	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 
+server:2.58.241.29	speed: 4.52	delay:63.216	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+server:2.58.242.45	speed:24.42	delay:63.773	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+server:2.58.241.46	speed: 7.31	delay:64.495	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+server:2.58.241.4	speed:22.94	delay:64.559	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+server:2.58.241.27	speed:22.55	delay:64.766	password:xpQwyV4W5FdA6NMANJJx73US	port:38033	method:aes-256-gcm 
+------------速度大于平均值延迟小于平均值----------------
+server:68.71.244.131	speed:68.57	delay:305.297	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDY4LjcxLjI0NC4xMzE6MzM5OTI=
+server:68.71.244.220	speed:53.37	delay:305.723	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDY4LjcxLjI0NC4yMjA6MzM5OTI=
+server:195.181.171.243	speed:83.31	delay:308.444	password:UhV73M9rmGqDfKh3Xtd4USHp	port:36811	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206VWhWNzNNOXJtR3FEZktoM1h0ZDRVU0hwQDE5NS4xODEuMTcxLjI0MzozNjgxMQ==
+server:194.124.32.8	speed:155.46	delay:350.500	password:y9VURyNzJWNRYEGQ	port:9008	method:aes-256-cfb 	link:ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUUAxOTQuMTI0LjMyLjg6OTAwOA==
+server:148.72.174.38	speed:56.13	delay:336.881	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE0OC43Mi4xNzQuMzg6MzM5OTI=
+server:37.218.241.125	speed:71.65	delay:352.100	password:LAAxhI2Ykxp6	port:700	method:chacha20-ietf-poly1305 	link:ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQUF4aEkyWWt4cDZAMzcuMjE4LjI0MS4xMjU6NzAw
+server:148.72.174.48	speed:61.81	delay:340.562	password:UhV73M9rmGqDfKh3Xtd4USHp	port:36811	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206VWhWNzNNOXJtR3FEZktoM1h0ZDRVU0hwQDE0OC43Mi4xNzQuNDg6MzY4MTE=
+server:148.72.174.36	speed:55.25	delay:322.647	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE0OC43Mi4xNzQuMzY6MzM5OTI=
+server:107.174.20.130	speed:59.07	delay:307.401	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xNzQuMjAuMTMwOjMzOTky
+server:107.175.104.84	speed:59.19	delay:309.372	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xNzUuMTA0Ljg0OjMzOTky
+server:192.34.83.236	speed:60.31	delay:376.355	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE5Mi4zNC44My4yMzY6MzM5OTI=
+server:172.241.114.87	speed:93.07	delay:304.018	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE3Mi4yNDEuMTE0Ljg3OjQwMDkz
+server:107.174.20.132	speed:50.42	delay:306.399	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDEwNy4xNzQuMjAuMTMyOjQwMDkz
+server:107.175.104.82	speed:68.96	delay:302.767	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xNzUuMTA0LjgyOjMzOTky
+server:185.93.0.143	speed:92.51	delay:312.714	password:juE2MNWkFSHQmbHDzL8FPHXt	port:37771	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206anVFMk1OV2tGU0hRbWJIRHpMOEZQSFh0QDE4NS45My4wLjE0MzozNzc3MQ==
+server:172.83.42.151	speed:74.90	delay:312.573	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE3Mi44My40Mi4xNTE6MzM5OTI=
+server:198.147.22.211	speed:58.68	delay:304.329	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE5OC4xNDcuMjIuMjExOjMzOTky
+server:172.93.153.148	speed:43.41	delay:308.206	password:UhV73M9rmGqDfKh3Xtd4USHp	port:36811	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206VWhWNzNNOXJtR3FEZktoM1h0ZDRVU0hwQDE3Mi45My4xNTMuMTQ4OjM2ODEx
+server:199.217.107.25	speed:52.15	delay:307.674	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE5OS4yMTcuMTA3LjI1OjMzOTky
+server:107.175.104.82	speed:57.02	delay:324.071	password:n8w4StnbVD9dmXYn4Ajt87EA	port:31572	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDEwNy4xNzUuMTA0LjgyOjMxNTcy
+server:207.244.67.149	speed:67.28	delay:309.387	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDIwNy4yNDQuNjcuMTQ5OjQwMDkz
+server:198.147.22.195	speed:66.52	delay:335.017	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE5OC4xNDcuMjIuMTk1OjQwMDkz
+server:207.244.67.149	speed:60.52	delay:332.163	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIwNy4yNDQuNjcuMTQ5OjMzOTky
+server:172.83.42.158	speed:61.12	delay:318.360	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE3Mi44My40Mi4xNTg6NDAwOTM=
+server:107.181.164.37	speed:57.78	delay:314.248	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xODEuMTY0LjM3OjMzOTky
+server:198.147.22.147	speed:52.52	delay:311.835	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE5OC4xNDcuMjIuMTQ3OjMzOTky
+server:207.244.84.42	speed:68.07	delay:339.927	password:n8w4StnbVD9dmXYn4Ajt87EA	port:31572	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDIwNy4yNDQuODQuNDI6MzE1NzI=
+server:207.244.84.44	speed:77.64	delay:310.343	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIwNy4yNDQuODQuNDQ6MzM5OTI=
+server:198.147.22.167	speed:60.27	delay:317.653	password:x23Z4LGkGDkThZ9Kaz4DURQp	port:40093	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE5OC4xNDcuMjIuMTY3OjQwMDkz
+server:107.174.20.132	speed:61.16	delay:307.422	password:8n6pwAcrrv2pj6tFY2p3TbQ6	port:33992	method:aes-256-gcm 	link:ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEwNy4xNzQuMjAuMTMyOjMzOTky
